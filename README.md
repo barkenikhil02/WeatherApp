@@ -1,15 +1,22 @@
 # WeatherApp
 Simple Weather Forecasting app using React-Native
-Step tu run the project:
+
+Steps to run the project:
 
 1. Clone the repository
 2. Open Terminal inside Project Directory
 3. run the commands:
+
 ```npm install```
+
 ```cd android```
+
 ```./gradlew clean```
+
 ```cd..```
+
 ```npx react-native run-android```
+
 
 Demo:
 
